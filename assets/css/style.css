@@ -214,7 +214,7 @@ nav a:focus {
   background-position: center;
   background-attachment: fixed;
   padding: 10em 0;
-  color: #fff;
+  color: black;
 }
 
  @media (min-width: 60rem) {
